@@ -85,3 +85,27 @@ header {
 .herosub {
     flex: 1 1 auto;
 }
+
+.info {
+    padding: 10px 380px;
+}
+
+.info h1 {
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+}
+
+.infoboxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    border: 3px solid #3882F6;
+    border-radius: 14px;
+    width: 250px;
+    height: 250px;
+}
