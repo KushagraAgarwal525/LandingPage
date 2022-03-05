@@ -178,4 +178,13 @@ header {
     border-color: white;
     font-weight: bold;
     border-style: solid;
-} 
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
