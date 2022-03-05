@@ -123,7 +123,12 @@ header {
 
 .quotediv {
     background-color: #E5E7EB;
-    padding: 100px 480px;
+    padding: 90px 480px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
 }
 
 .qtext {
@@ -131,9 +136,12 @@ header {
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
+    height: 190px;
 }
 
 .qsaid {
     font-weight: 600;
     font-size:x-large;
+    text-align: right;
+    flex: 1 1 auto;
 }
