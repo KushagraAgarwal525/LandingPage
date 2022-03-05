@@ -87,7 +87,7 @@ header {
 }
 
 .info {
-    padding: 10px 380px;
+    padding: 20px 380px 60px;
 }
 
 .info h1 {
@@ -119,4 +119,21 @@ header {
 .infotext {
     width: 200px;
     text-align: center;
+}
+
+.quotediv {
+    background-color: #E5E7EB;
+    padding: 100px 480px;
+}
+
+.qtext {
+    font-family: 'Assistant';
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.qsaid {
+    font-weight: 600;
+    font-size:x-large;
 }
