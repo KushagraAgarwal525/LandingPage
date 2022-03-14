@@ -80,6 +80,7 @@ header {
     border-radius: 10px;
     font-size: larger;
     flex: 1 1 auto;
+    cursor: pointer;
 }
 
 .herosub {
@@ -178,6 +179,7 @@ header {
     border-color: white;
     font-weight: bold;
     border-style: solid;
+    cursor: pointer;
 }
 
 .footer {
